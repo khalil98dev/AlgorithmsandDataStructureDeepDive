@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\bin\Debug\net9.0\Algo.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\bin\Debug\net9.0\Algo.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\bin\Debug\net9.0\Algo.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\bin\Debug\net9.0\Algo.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\bin\Debug\net9.0\Algo.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\refint\Algo.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\Algo.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Alogirthms\Algo\obj\Debug\net9.0\ref\Algo.dll
