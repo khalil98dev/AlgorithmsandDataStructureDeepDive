@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alogirthms", "Alogirthms", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo", "Alogirthms\Algo\Algo.csproj", "{B8942313-8E94-4788-9CCC-CEF9A92CBE88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTrees", "BinaryTrees\BinaryTrees.csproj", "{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +31,26 @@ Global
 		{B8942313-8E94-4788-9CCC-CEF9A92CBE88}.Release|x64.Build.0 = Release|Any CPU
 		{B8942313-8E94-4788-9CCC-CEF9A92CBE88}.Release|x86.ActiveCfg = Release|Any CPU
 		{B8942313-8E94-4788-9CCC-CEF9A92CBE88}.Release|x86.Build.0 = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|x64.Build.0 = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Debug|x86.Build.0 = Debug|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|x64.ActiveCfg = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|x64.Build.0 = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B8942313-8E94-4788-9CCC-CEF9A92CBE88} = {C80B06D8-E2F1-0CA8-AECA-D43181A789C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FF0B89-3455-47C7-9A63-46181EB01D09}
 	EndGlobalSection
 EndGlobal
