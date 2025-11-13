@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\bin\Debug\net9.0\BinaryTrees.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\bin\Debug\net9.0\BinaryTrees.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\bin\Debug\net9.0\BinaryTrees.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\bin\Debug\net9.0\BinaryTrees.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\bin\Debug\net9.0\BinaryTrees.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\refint\BinaryTrees.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\BinaryTrees.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\BinaryTrees\obj\Debug\net9.0\ref\BinaryTrees.dll
