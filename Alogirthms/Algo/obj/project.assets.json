@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GNT\\.nuget\\packages\\": {},
+    "C:\\Users\\md98k\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
+      "projectUniqueName": "D:\\03.C#\\Learning&Training\\23.Course 23 Algorithms\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
       "projectName": "Algo",
-      "projectPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
-      "packagesPath": "C:\\Users\\GNT\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\obj\\",
+      "projectPath": "D:\\03.C#\\Learning&Training\\23.Course 23 Algorithms\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
+      "packagesPath": "C:\\Users\\md98k\\.nuget\\packages\\",
+      "outputPath": "D:\\03.C#\\Learning&Training\\23.Course 23 Algorithms\\problem_solving_c23\\Alogirthms\\Algo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\GNT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\md98k\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

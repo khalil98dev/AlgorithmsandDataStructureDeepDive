@@ -1,0 +1,8 @@
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\bin\Debug\Revision.exe.config
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\bin\Debug\Revision.exe
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\bin\Debug\Revision.pdb
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\obj\Debug\Revision.csproj.AssemblyReference.cache
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\obj\Debug\Revision.exe
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\obj\Debug\Revision.pdb
+D:\03.C#\Learning&Training\23.Course 23 Algorithms\problem_solving_c23\Revision\obj\Debug\Revision.exe.config

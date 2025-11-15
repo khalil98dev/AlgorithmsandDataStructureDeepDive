@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,20 +8,35 @@ using System.Xml.Linq;
 
 namespace BinaryTrees;
 
-public class BinaryTree<T>
+public class BinaryTree<T> where T : IComparable<T>
 {
-    BTNode<T>? root { get; set; }
+    protected BTNode<T>? root { get; set; }
 
     public BTNode<T> Root { get => root; }
+
+    public int Count => CountAllNodesPostOrder();
+
+    public int LeafsCount => CountLeafNodes();
+
+    public int InternalCount => InternalNodes();
+
+    public int MaxHeight => MaxHeightCalc();
+
+    public bool IsReadOnly => false;
 
     public BinaryTree(BTNode<T>? root)
     {
         this.root = root;
     }
+    public BinaryTree()
+    {
+        this.root = null;
+    }
+
+    Queue<BTNode<T>> Nodes = new Queue<BTNode<T>>();
 
 
-
-    public void Insert(T value)
+    public virtual void Insert(T value)
     {
 
         //root right left  
@@ -31,7 +47,6 @@ public class BinaryTree<T>
             return;
         }
 
-        Queue<BTNode<T>> Nodes = new Queue<BTNode<T>>();
 
         Nodes.Enqueue(root);
 
@@ -69,7 +84,6 @@ public class BinaryTree<T>
         PrintTree(Root, 0);
     }
 
-
     void PrintTree(BTNode<T> Node, int space)
     {
         if (Node == null)
@@ -92,6 +106,49 @@ public class BinaryTree<T>
         return value;
     }
 
+    void InOrderTraversal(BTNode<T> Node)
+    {
+        //left-root-right
+
+        if (Node == null) return;
+
+        InOrderTraversal(Node.leftNode);
+        Console.Write(Node.Value + " ");
+        InOrderTraversal(Node.rigtNode);
+
+    }
+
+    void LevelOrderTraversal(BTNode<T>? Node)
+    {
+        //Path => level by levl Top to Down left to Right
+
+        //root right left  
+
+        if (Node == null)
+            return;
+
+
+        Queue<BTNode<T>> Nodes = new Queue<BTNode<T>>();
+
+        Nodes.Enqueue(root);
+
+        while (Nodes.Count > 0)
+        {
+            var CurrentNode = Nodes.Dequeue();
+
+            Console.Write(CurrentNode.Value + " ");
+
+            if (CurrentNode.leftNode != null)
+            {
+                Nodes.Enqueue(CurrentNode.leftNode);
+            }
+
+            if (CurrentNode.rigtNode != null)
+            {
+                Nodes.Enqueue(CurrentNode.rigtNode);
+            }
+        }
+    }
 
     void PreOrderTraversal(BTNode<T> Node)
     {
@@ -138,47 +195,207 @@ public class BinaryTree<T>
         InOrderTraversal(Root);
     }
 
-    private void InOrderTraversal(BTNode<T> Node)
+    public void LevelOrderTraversal()
     {
-        //left-root-right
+        LevelOrderTraversal(root);
+    }
 
-        if (Node == null) return;
+    public IEnumerator<T> GetEnumerator()
+    {
+        foreach (var node in Nodes)
+        {
+            yield return node.Value;
+        }
+            
+    }
 
-        InOrderTraversal(Node.leftNode);
-        Console.Write(Node.Value + " ");
-        InOrderTraversal(Node.rigtNode);
+  
+    public void Add(T item)
+    {
+        Insert(item);
+    }
+
+    public void Clear()
+    {
+        Nodes.Clear();
+    }
+
+    public bool Contains(T item)
+    {
+        foreach(var node in Nodes)
+        {
+            if(Nodes.Contains(node))
+                return true;
+        }
+
+        return false;
+    }
+
+
+    int CountAllNodes()
+    {
+        return PreOrderTraversalCounter(root,0);
+    }
+
+
+    int CountAllNodesPostOrder()
+    {
+        return PostOrderTraversalCounter(root, 0);
+    }
+
+    int  PreOrderTraversalCounter(BTNode<T> Node,int Counter)
+    {
+     
+        
+        if (Node == null)  return Counter;
+        Counter++;
+        Counter = PreOrderTraversalCounter(Node.leftNode, Counter); // left sub tree items 
+        Counter = PreOrderTraversalCounter(Node.rigtNode, Counter);// right sub tree items 
+
+
+        return Counter;
+
+    }
+
+    int CountLeafNodesPostOrderTraversal() => PreOrderTraversalCounter(root, 0);
+
+    int CountLeafNodesPostOrderTraversal(BTNode<T> Node, int Counter)
+    {
+        if (Node == null) return Counter;
+        
        
-    }
-}
-public class BTNode<T>
-{
-    public T ?Value { get; set; }
-    public BTNode<T> ?leftNode { get; set; }  
-    public BTNode<T>? rigtNode { get; set; }  
 
-    public BTNode(T? value)
-    {
-        Value = value;
-        this.leftNode = null;
-        this.rigtNode = null;
+        Counter = PreOrderTraversalCounter(Node.leftNode, Counter++); // left sub tree items 
+        Counter = PreOrderTraversalCounter(Node.rigtNode, Counter++);// right sub tree items 
+
+        return Counter;
     }
 
-    public int CompareTo(T? other)
-    {
-        if (other == null)
-            return 1;
 
-        if (Value == null && other == null)
+
+
+    int PostOrderTraversalCounter(BTNode<T> node, int counter)
+    {
+        if (node == null)
+            return counter;
+
+        // Traverse left subtree
+        counter = PostOrderTraversalCounter(node.leftNode, counter);
+
+        // Traverse right subtree
+        counter = PostOrderTraversalCounter(node.rigtNode, counter);
+
+        // Visit root (increment AFTER children)
+        counter++;
+
+        return counter;
+    }
+
+
+    public void CopyTo(T[] array, int arrayIndex)
+    {
+        throw new NotImplementedException();
+    }
+
+    public bool Remove(T item)
+    {
+        throw new NotImplementedException();
+    }
+
+
+
+    int CountleafsLevelOrderTraversal(BTNode<T>? Node)
+    {
+        //Path => level by levl Top to Down left to Right
+
+        //root right left  
+        int Counter = 0;
+        if (Node == null)
+            return Counter;
+
+
+        Queue<BTNode<T>> Nodes = new Queue<BTNode<T>>();
+
+        Nodes.Enqueue(root);
+       
+
+        while (Nodes.Count > 0)
+        {
+            var CurrentNode = Nodes.Dequeue();
+
+            Console.Write(CurrentNode.Value + " ");
+            if (CurrentNode.leftNode == null && CurrentNode.rigtNode == null)
+                Counter++;
+            if (CurrentNode.leftNode != null)
+            {
+                Nodes.Enqueue(CurrentNode.leftNode);
+            }
+
+            if (CurrentNode.rigtNode != null)
+            {
+                Nodes.Enqueue(CurrentNode.rigtNode);
+            }
+        }
+
+        return Counter;
+    }
+
+    int CountleafsLevelOrderTraversal() => CountleafsLevelOrderTraversal(root);
+
+
+
+    int CountLeafNodes(BTNode<T> node)
+    {
+        if (node == null)
             return 0;
 
-        if (Value == null)
-            return -1;
-
-        if (other == null)
+        // A node with no children is a leaf
+        if (node.leftNode == null && node.rigtNode == null)
             return 1;
 
-        // Compare based on the Value property
-        return this.CompareTo(other);
+        // Recursively count in left and right subtrees
+        return CountLeafNodes(node.leftNode) + CountLeafNodes(node.rigtNode);
     }
 
+    int CountLeafNodes()=> CountLeafNodes(root);
+
+    int InternalNodes() => Count- CountLeafNodes(root)-1;
+
+    int MaxHeightCalc()
+    {
+        
+        int Level = 0;
+        int LevelCapacity = 0;
+
+        while (LevelCapacity<Count)
+        {
+            Level++;
+            LevelCapacity = (int)Math.Pow(2, Level)-1;
+        }
+
+        return Level;
     }
+
+
+    int MaxHeightCalcRecursive(BTNode<T> Node)
+    {
+
+        if (Node == null)
+        {
+            return 0;
+        }
+
+        int maxLevelLeft = MaxHeightCalcRecursive(Node.leftNode);
+        int maxLevelRight = MaxHeightCalcRecursive(Node.rigtNode);
+
+
+        return 1 + Math.Max(maxLevelLeft, maxLevelRight);   
+
+
+    }
+
+    public int MaxDepthRecursive()
+    {
+        return MaxHeightCalcRecursive(root);
+    }  
+}
