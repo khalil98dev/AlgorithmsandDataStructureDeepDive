@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\03.c#\\learning\u0026training\\23.course 23 algorithms\\problem_solving_c23\\binarytrees\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,6 +17,17 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|d:\\03.c#\\learning\u0026training\\23.course 23 algorithms\\problem_solving_c23\\alogirthms\\algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\alogirthms\\algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 39c9a38a4b2bdbe8bcabd12b01739fb6d854a331
       "RelativeMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|solutionrelative:alogirthms\\algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,6 +82,7 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:534562499:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
@@ -105,6 +118,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+=======
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\BinaryTree.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTrees\\BinaryTree.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAIwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:41:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+>>>>>>> 39c9a38a4b2bdbe8bcabd12b01739fb6d854a331
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\Revision\\Program.cs",
               "RelativeDocumentMoniker": "Revision\\Program.cs",

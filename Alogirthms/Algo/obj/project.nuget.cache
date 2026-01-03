@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "lN+Yfrmcjgk=",
+=======
+  "dgSpecHash": "lvq4YGsv6ek=",
+>>>>>>> 39c9a38a4b2bdbe8bcabd12b01739fb6d854a331
   "success": true,
   "projectFilePath": "D:\\03.C#\\Learning&Training\\23.Course 23 Algorithms\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
   "expectedPackageFiles": [],
