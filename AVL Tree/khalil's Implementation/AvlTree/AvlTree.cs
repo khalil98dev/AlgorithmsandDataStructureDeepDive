@@ -106,15 +106,17 @@
         node.Hight =1 + Math.Max(Height(node.Left), Height(node.Right));   
     }
 
+    public int Height(Avlnode<T> node)
+    {
+        return (node != null) ? node.Hight : 0;
+    }
+
     public int BalanceFactory(Avlnode<T> node)
     {
         return Height(node.Left)-Height(node.Right);    
     }
 
-    public int Height(Avlnode<T> node)
-    {
-        return (node != null)? node.Hight: 0; 
-    }
+   
 
     private Avlnode<T> Balance(Avlnode<T> node)
     {

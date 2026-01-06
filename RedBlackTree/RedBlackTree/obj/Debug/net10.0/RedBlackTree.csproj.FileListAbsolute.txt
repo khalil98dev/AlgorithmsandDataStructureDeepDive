@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\bin\Debug\net10.0\RedBlackTree.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\bin\Debug\net10.0\RedBlackTree.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\bin\Debug\net10.0\RedBlackTree.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\bin\Debug\net10.0\RedBlackTree.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\bin\Debug\net10.0\RedBlackTree.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\refint\RedBlackTree.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\RedBlackTree.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\RedBlackTree\RedBlackTree\obj\Debug\net10.0\ref\RedBlackTree.dll
