@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "lN+Yfrmcjgk=",
-=======
-  "dgSpecHash": "lvq4YGsv6ek=",
->>>>>>> 39c9a38a4b2bdbe8bcabd12b01739fb6d854a331
+  "dgSpecHash": "h457Lq6W7yU=",
   "success": true,
-  "projectFilePath": "D:\\03.C#\\Learning&Training\\23.Course 23 Algorithms\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
+  "projectFilePath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Algo.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\problerms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\problerms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\alogirthms\\algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|solutionrelative:alogirthms\\algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D78FDF-F30E-44D4-9201-4014A667C436}|Revision\\Revision.csproj|D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D78FDF-F30E-44D4-9201-4014A667C436}|Revision\\Revision.csproj|solutionrelative:revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\btnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\btnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\binarytrees\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5C0BB-309E-4B3C-B9B5-91B8AB820FCD}|BinaryTrees\\BinaryTrees.csproj|solutionrelative:binarytrees\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\alogirthms\\algo\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|solutionrelative:alogirthms\\algo\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\alogirthms\\algo\\selectedsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8942313-8E94-4788-9CCC-CEF9A92CBE88}|Alogirthms\\Algo\\Algo.csproj|solutionrelative:alogirthms\\algo\\selectedsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\BinarySearchTree.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinarySearchTree.cs",
+              "RelativeToolTip": "BinaryTrees\\BinarySearchTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BTNode.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BTNode.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\BTNode.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BTNode.cs",
+              "RelativeToolTip": "BinaryTrees\\BTNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Revision\\Program.cs",
+              "RelativeDocumentMoniker": "Revision\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Revision\\Program.cs",
+              "RelativeToolTip": "Revision\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problerms.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\Problerms.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\Problerms.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\Problerms.cs",
+              "RelativeToolTip": "BinaryTrees\\Problerms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\BinaryTree.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTrees\\BinaryTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryTrees\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\BinaryTrees\\Program.cs",
+              "RelativeToolTip": "BinaryTrees\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADgv0IAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "Alogirthms\\Algo\\InsertionSort.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\InsertionSort.cs",
+              "RelativeToolTip": "Alogirthms\\Algo\\InsertionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectedSort.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\SelectedSort.cs",
+              "RelativeDocumentMoniker": "Alogirthms\\Algo\\SelectedSort.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\SelectedSort.cs",
+              "RelativeToolTip": "Alogirthms\\Algo\\SelectedSort.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Program.cs",
+              "RelativeDocumentMoniker": "Alogirthms\\Algo\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Alogirthms\\Algo\\Program.cs",
+              "RelativeToolTip": "Alogirthms\\Algo\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:48:30.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

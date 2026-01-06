@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\AVL Tree\\khalil\u0027s Implementation\\AvlTree\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1113278-E49D-B637-329C-2A17D7720218}|AvlTree.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\avl tree\\khalil\u0027s implementation\\avltree\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1113278-E49D-B637-329C-2A17D7720218}|AvlTree.csproj|solutionrelative:avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1113278-E49D-B637-329C-2A17D7720218}|AvlTree.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\avl tree\\khalil\u0027s implementation\\avltree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1113278-E49D-B637-329C-2A17D7720218}|AvlTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AvlTree.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\AVL Tree\\khalil\u0027s Implementation\\AvlTree\\AvlTree.cs",
+              "RelativeDocumentMoniker": "AvlTree.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\AVL Tree\\khalil\u0027s Implementation\\AvlTree\\AvlTree.cs",
+              "RelativeToolTip": "AvlTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:34:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\AVL Tree\\khalil\u0027s Implementation\\AvlTree\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\AVL Tree\\khalil\u0027s Implementation\\AvlTree\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T13:29:32.715Z",
               "EditorCaption": ""
