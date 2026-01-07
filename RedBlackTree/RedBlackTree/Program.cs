@@ -16,6 +16,19 @@ class Program
             rbTree.Print();
             Console.WriteLine("\n--------------------------------\n");
         }
+
+
+
+
+
+        rbTree.Delete(15);
+        Console.WriteLine("Deleting value 15..."); 
+        rbTree.Print(); 
+
+
+
+
+
         Console.ReadKey();
     }
 }
