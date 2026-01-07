@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\GraphTravesal_BFS_DFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2332C60-6B12-4339-ADAB-643C6CA707DC}|Graph\\Graph.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\graphtravesal_bfs_dfs\\graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2332C60-6B12-4339-ADAB-643C6CA707DC}|Graph\\Graph.csproj|solutionrelative:graph\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2332C60-6B12-4339-ADAB-643C6CA707DC}|Graph\\Graph.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\graphtravesal_bfs_dfs\\graph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2332C60-6B12-4339-ADAB-643C6CA707DC}|Graph\\Graph.csproj|solutionrelative:graph\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\GraphTravesal_BFS_DFS\\Graph\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph\\Graph.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\GraphTravesal_BFS_DFS\\Graph\\Graph.cs",
+              "RelativeToolTip": "Graph\\Graph.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAD4v4MAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:12:30.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\GraphTravesal_BFS_DFS\\Graph\\Program.cs",
+              "RelativeDocumentMoniker": "Graph\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\GraphTravesal_BFS_DFS\\Graph\\Program.cs",
+              "RelativeToolTip": "Graph\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:12:30.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

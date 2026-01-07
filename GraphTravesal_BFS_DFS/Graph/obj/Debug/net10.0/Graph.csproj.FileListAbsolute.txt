@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\bin\Debug\net10.0\Graph.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\bin\Debug\net10.0\Graph.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\bin\Debug\net10.0\Graph.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\bin\Debug\net10.0\Graph.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\bin\Debug\net10.0\Graph.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\refint\Graph.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\Graph.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\GraphTravesal_BFS_DFS\Graph\obj\Debug\net10.0\ref\Graph.dll
