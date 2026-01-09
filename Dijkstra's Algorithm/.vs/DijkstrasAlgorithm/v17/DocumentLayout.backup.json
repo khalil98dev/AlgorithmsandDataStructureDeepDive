@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\AlgorithmsandDataStructureDeepDive\\Dijkstra\u0027s Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D368D840-16B7-4DCE-8982-31E19B37C0B4}|Disktra\\Disktra.csproj|d:\\03.c#\\learning\u0026training\\23.course 23 algorithms\\problem_solving_c23\\algorithmsanddatastructuredeepdive\\dijkstra\u0027s algorithm\\disktra\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368D840-16B7-4DCE-8982-31E19B37C0B4}|Disktra\\Disktra.csproj|solutionrelative:disktra\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D368D840-16B7-4DCE-8982-31E19B37C0B4}|Disktra\\Disktra.csproj|d:\\03.c#\\learning\u0026training\\23.course 23 algorithms\\problem_solving_c23\\algorithmsanddatastructuredeepdive\\dijkstra\u0027s algorithm\\disktra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368D840-16B7-4DCE-8982-31E19B37C0B4}|Disktra\\Disktra.csproj|solutionrelative:disktra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22239896:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1008834252:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:534562499:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1209868788:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\AlgorithmsandDataStructureDeepDive\\Dijkstra\u0027s Algorithm\\Disktra\\Program.cs",
+              "RelativeDocumentMoniker": "Disktra\\Program.cs",
+              "ToolTip": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\AlgorithmsandDataStructureDeepDive\\Dijkstra\u0027s Algorithm\\Disktra\\Program.cs",
+              "RelativeToolTip": "Disktra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:04:12.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\AlgorithmsandDataStructureDeepDive\\Dijkstra\u0027s Algorithm\\Disktra\\Graph.cs",
+              "RelativeDocumentMoniker": "Disktra\\Graph.cs",
+              "ToolTip": "D:\\03.C#\\Learning\u0026Training\\23.Course 23 Algorithms\\problem_solving_c23\\AlgorithmsandDataStructureDeepDive\\Dijkstra\u0027s Algorithm\\Disktra\\Graph.cs",
+              "RelativeToolTip": "Disktra\\Graph.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAowDsBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:23:29.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
