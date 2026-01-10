@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!--  Coin Image Resources  -->
+    <!--  Place your coin images in the "Images" folder in your project  -->
+    <!--  Set Build Action to "Resource" for each image  -->
+
+    <BitmapImage x:Key="Coin5" UriSource="/Images/5dzd.jpg" />
+    <BitmapImage x:Key="Coin10" UriSource="/Images/10dzd.jpg" />
+    <BitmapImage x:Key="Coin20" UriSource="/Images/20dzd.jpg" />
+    <BitmapImage x:Key="Coin50" UriSource="/Images/50dzd.jpg" />
+    <BitmapImage x:Key="Coin100" UriSource="/Images/100dzd.jpg" />
+    <BitmapImage x:Key="Coin200" UriSource="/Images/200dzd.jpg" />
+    <BitmapImage x:Key="Coin500" UriSource="/Images/500dzd.jpg" />
+    <BitmapImage x:Key="Coin1000" UriSource="/Images/1000dzd.jpg" />
+    <BitmapImage x:Key="Coin2000" UriSource="/Images/2000dzd.jpg" />
+
+    <!--  Coin Colors (Fallback)  -->
+    <SolidColorBrush x:Key="Color5" Color="#CD7F32" />
+    <SolidColorBrush x:Key="Color10" Color="#C0C0C0" />
+    <SolidColorBrush x:Key="Color20" Color="#FFD700" />
+    <SolidColorBrush x:Key="Color50" Color="#B87333" />
+    <SolidColorBrush x:Key="Color100" Color="#4A90E2" />
+    <SolidColorBrush x:Key="Color200" Color="#E74C3C" />
+    <SolidColorBrush x:Key="Color500" Color="#9B59B6" />
+    <SolidColorBrush x:Key="Color1000" Color="#27AE60" />
+    <SolidColorBrush x:Key="Color2000" Color="#E67E22" />
+
+</ResourceDictionary>
