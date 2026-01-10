@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C3A98B3-4BC4-4B31-8F9F-4B5182039901}|BrowserBackButton\\BrowserBackButton.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\queue \u0026 stack problems (30)\\browserbackbutton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C3A98B3-4BC4-4B31-8F9F-4B5182039901}|BrowserBackButton\\BrowserBackButton.csproj|solutionrelative:browserbackbutton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC829D93-5C43-4043-BDE4-619C65D011A3}|07.ImplementingSimpleBacktracking\\07.ImplementingSimpleBacktracking.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\queue \u0026 stack problems (30)\\07.implementingsimplebacktracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC829D93-5C43-4043-BDE4-619C65D011A3}|07.ImplementingSimpleBacktracking\\07.ImplementingSimpleBacktracking.csproj|solutionrelative:07.implementingsimplebacktracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637A3965-F19D-4759-821A-B45AA3D3C7BC}|06.TicketingSystemSimulation\\06.TicketingSystemSimulation.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\queue \u0026 stack problems (30)\\06.ticketingsystemsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637A3965-F19D-4759-821A-B45AA3D3C7BC}|06.TicketingSystemSimulation\\06.TicketingSystemSimulation.csproj|solutionrelative:06.ticketingsystemsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14647760-AAEF-457A-B1E9-B78E0417161B}|05.TrafficSignalSystemSimulation\\05.TrafficSignalSystemSimulation.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\queue \u0026 stack problems (30)\\05.trafficsignalsystemsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14647760-AAEF-457A-B1E9-B78E0417161B}|05.TrafficSignalSystemSimulation\\05.TrafficSignalSystemSimulation.csproj|solutionrelative:05.trafficsignalsystemsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327AD940-8ED3-4FF7-83F9-1A9049AB3591}|04.PrintJobScheduling\\04.PrintJobScheduling.csproj|d:\\learning\\programmingadvice\\course 23\\problem_solving_c23\\queue \u0026 stack problems (30)\\04.printjobscheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327AD940-8ED3-4FF7-83F9-1A9049AB3591}|04.PrintJobScheduling\\04.PrintJobScheduling.csproj|solutionrelative:04.printjobscheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +32,51 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\BrowserBackButton\\Program.cs",
-              "RelativeDocumentMoniker": "BrowserBackButton\\Program.cs",
-              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\BrowserBackButton\\Program.cs",
-              "RelativeToolTip": "BrowserBackButton\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\07.ImplementingSimpleBacktracking\\Program.cs",
+              "RelativeDocumentMoniker": "07.ImplementingSimpleBacktracking\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\07.ImplementingSimpleBacktracking\\Program.cs",
+              "RelativeToolTip": "07.ImplementingSimpleBacktracking\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T18:28:59.599Z",
+              "WhenOpened": "2026-01-10T21:50:19.035Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\06.TicketingSystemSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "06.TicketingSystemSimulation\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\06.TicketingSystemSimulation\\Program.cs",
+              "RelativeToolTip": "06.TicketingSystemSimulation\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:35:45.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\04.PrintJobScheduling\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintJobScheduling\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\04.PrintJobScheduling\\Program.cs",
+              "RelativeToolTip": "04.PrintJobScheduling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:52:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\05.TrafficSignalSystemSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "05.TrafficSignalSystemSimulation\\Program.cs",
+              "ToolTip": "D:\\Learning\\ProgrammingAdvice\\Course 23\\problem_solving_c23\\Queue \u0026 Stack Problems (30)\\05.TrafficSignalSystemSimulation\\Program.cs",
+              "RelativeToolTip": "05.TrafficSignalSystemSimulation\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwHEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:49:09.488Z"
             }
           ]
         }

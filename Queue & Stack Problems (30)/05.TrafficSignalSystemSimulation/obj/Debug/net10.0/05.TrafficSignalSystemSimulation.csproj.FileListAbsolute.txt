@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\bin\Debug\net10.0\05.TrafficSignalSystemSimulation.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\bin\Debug\net10.0\05.TrafficSignalSystemSimulation.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\bin\Debug\net10.0\05.TrafficSignalSystemSimulation.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\bin\Debug\net10.0\05.TrafficSignalSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\bin\Debug\net10.0\05.TrafficSignalSystemSimulation.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\refint\05.TrafficSignalSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\05.TrafficSignalSystemSimulation.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\05.TrafficSignalSystemSimulation\obj\Debug\net10.0\ref\05.TrafficSignalSystemSimulation.dll

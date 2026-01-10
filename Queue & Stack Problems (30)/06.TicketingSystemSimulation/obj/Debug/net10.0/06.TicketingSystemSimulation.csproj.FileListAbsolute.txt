@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\bin\Debug\net10.0\06.TicketingSystemSimulation.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\bin\Debug\net10.0\06.TicketingSystemSimulation.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\bin\Debug\net10.0\06.TicketingSystemSimulation.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\bin\Debug\net10.0\06.TicketingSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\bin\Debug\net10.0\06.TicketingSystemSimulation.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\refint\06.TicketingSystemSimulation.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\06.TicketingSystemSimulation.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\06.TicketingSystemSimulation\obj\Debug\net10.0\ref\06.TicketingSystemSimulation.dll

@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\bin\Debug\net10.0\10.WebPageRequestHandling.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\bin\Debug\net10.0\10.WebPageRequestHandling.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\bin\Debug\net10.0\10.WebPageRequestHandling.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\bin\Debug\net10.0\10.WebPageRequestHandling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\bin\Debug\net10.0\10.WebPageRequestHandling.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\refint\10.WebPageRequestHandling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\10.WebPageRequestHandling.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\10.WebPageRequestHandling\obj\Debug\net10.0\ref\10.WebPageRequestHandling.dll

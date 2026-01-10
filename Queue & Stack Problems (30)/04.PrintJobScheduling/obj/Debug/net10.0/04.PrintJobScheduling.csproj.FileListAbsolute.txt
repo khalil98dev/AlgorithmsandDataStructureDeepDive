@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\bin\Debug\net10.0\04.PrintJobScheduling.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\bin\Debug\net10.0\04.PrintJobScheduling.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\bin\Debug\net10.0\04.PrintJobScheduling.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\bin\Debug\net10.0\04.PrintJobScheduling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\bin\Debug\net10.0\04.PrintJobScheduling.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\refint\04.PrintJobScheduling.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\04.PrintJobScheduling.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\04.PrintJobScheduling\obj\Debug\net10.0\ref\04.PrintJobScheduling.dll

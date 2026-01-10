@@ -1,0 +1,15 @@
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\bin\Debug\net10.0\07.ImplementingSimpleBacktracking.exe
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\bin\Debug\net10.0\07.ImplementingSimpleBacktracking.deps.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\bin\Debug\net10.0\07.ImplementingSimpleBacktracking.runtimeconfig.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\bin\Debug\net10.0\07.ImplementingSimpleBacktracking.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\bin\Debug\net10.0\07.ImplementingSimpleBacktracking.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.AssemblyInfoInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.AssemblyInfo.cs
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.csproj.CoreCompileInputs.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.sourcelink.json
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\refint\07.ImplementingSimpleBacktracking.dll
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.pdb
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\07.ImplementingSimpleBacktracking.genruntimeconfig.cache
+D:\Learning\ProgrammingAdvice\Course 23\problem_solving_c23\Queue & Stack Problems (30)\07.ImplementingSimpleBacktracking\obj\Debug\net10.0\ref\07.ImplementingSimpleBacktracking.dll
